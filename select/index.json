@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "ゴーストマンション",
+  "base_artist": "ピラフ星人",
+  "createdAt": "2025-12-01T03:42:42.135849Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Ghost Mansion",
+      "artist": "ハチ",
+      "has_synced": false,
+      "path": "select/pl_01_Ghost_Mansion_ハチ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "ゴーストマンション",
+      "artist": "ハチ",
+      "has_synced": false,
+      "path": "select/pl_02_ゴーストマンション_ハチ.txt"
+    }
+  ]
+}
